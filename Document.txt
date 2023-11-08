@@ -1,0 +1,17 @@
+<!DOCTYPE html>: Định nghĩa loại tài liêu
+Head: Nơi chứa link từ thư viện bên ngoài hoặc link các file với nhau
+Body: Nơi chứa các element(phần tử) html
+Thẻ Block: 
+    + Nó Sẽ chiếm hết 100% diện tích mà nó có thể chiếm
+    + Các thẻ Block sẽ được sắp xếp với nhau theo chiều dọc
+    + Chiêù cao của thẻ sẽ phụ thuộc vào phần nội dung
+    
+Thẻ Inline: 
+    + Nó Sẽ chiếm hết diện tích theo noi dung cua no
+    + Các thẻ Inline sẽ được sắp xếp với nhau theo chiều ngang (khi chiem het chieu ngang se tu dong xuong dong)
+    + Chiêù cao của thẻ sẽ phụ thuộc vào phần nội dung
+-> Cac the block hay duoc su dung de xay dung bo cuc tong quat cho trang web
+=>Thẻ inline được sử dụng để bổ xung chi tiết cho trang web
+Cách biến đổi thẻ block thành inline và ngược lai
++ Bọc thẻ inline vào thẻ 1 thẻ block
+Ngược lại sử dụng thuộc tính display block

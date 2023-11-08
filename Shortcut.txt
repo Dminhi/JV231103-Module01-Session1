@@ -1,0 +1,3 @@
+- Copy code
+Ctrl+C Ctrl+V
+Focus chuột vào dòng cần copy : ctrl +c và ctrl + v
